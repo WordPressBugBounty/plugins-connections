@@ -1,0 +1,5 @@
+.cn-birthday-light { -moz-border-radius:4px; background-color:#FFFFFF; border:1px solid #E3E3E3; position: relative; }
+.cn-birthday-light .cn-upcoming-title { font-size: large; font-variant: small-caps; font-weight: bold; padding: 8px 0; text-align: center; }
+.cn-birthday-light .cn-upcoming-row { margin: 0; padding: 4px 12px; }
+.cn-birthday-light .cn-upcoming-row-alternate { background-color: #F9F9F9; margin: 0; padding: 4px 12px; }
+.cn-birthday-light span.cn-upcoming-date { position: absolute; right: 12px; }

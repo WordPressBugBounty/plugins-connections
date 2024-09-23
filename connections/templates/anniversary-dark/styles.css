@@ -1,0 +1,5 @@
+div.cn-anniversary-dark { -moz-border-radius:4px; color: #FFFFFF; background-color:#000000; border:1px solid #E3E3E3; position: relative; }
+div.cn-anniversary-dark .cn-upcoming-title { font-size: large; font-variant: small-caps; font-weight: bold; padding: 8px 0; text-align: center; }
+div.cn-anniversary-dark .cn-upcoming-row { margin: 0; padding: 4px 12px; }
+div.cn-anniversary-dark .cn-upcoming-row-alternate { margin: 0; padding: 4px 12px; }
+div.cn-anniversary-dark span.cn-upcoming-date { position: absolute; right: 12px; }
